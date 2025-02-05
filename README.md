@@ -10,6 +10,6 @@ The dataset used for fine-tuning consists of Indian Penal Code (IPC) legal texts
 - **Base Model:** DeepSeek R1
 - **Fine-Tuning Framework:** UnslopT
 - **Dataset:** Indian Legal QA dataset
-- **Hosted Model:** Available on [Hugging Face]([https://huggingface.co/](https://huggingface.co/devl-8980-sn/india_legal_QA_deepseek))
+- **Hosted Model:** Available on [Hugging Face](https://huggingface.co/](https://huggingface.co/devl-8980-sn/india_legal_QA_deepseek)
 
 
